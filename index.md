@@ -2,24 +2,21 @@
 layout: default
 ---
 
-**Atotmotive Powertrain Software**
+**Automotive ADAS Portfolio**
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Fraud Detection
 
-# Fnctional development & Model based software development
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more
 
-Responsible for atomatic transmission development in function development (SWE 3) and software devlopment (SWE 4)
+<center><img src="images/fraud_detection.jpg"/></center>
 
-## Automatic transmission cost down 
+## Automatic transmission Software Development 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Software development  software fnction development for automatic transmission software
 
-### Header 3
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
