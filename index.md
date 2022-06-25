@@ -2,19 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+**Atotmotive Powertrain Software**
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Fnctional development & Model based software development
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Responsible for atomatic transmission development in function development (SWE 3) and software devlopment (SWE 4)
 
-## Header 2
+## Automatic transmission cost down 
 
 > This is a blockquote following a header.
 >
